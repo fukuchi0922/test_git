@@ -1,4 +1,4 @@
       PROGRAM MAIN
-c$$$      Written by Ryota FUKUCHI
+c      Written by R. FUKUCHI
       WRITE(*,*)'Hello fortran'
       END
